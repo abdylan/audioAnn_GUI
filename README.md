@@ -1,10 +1,15 @@
 # audioAnn_GUI
 A simple iPyWidgets Audio Annotator to label audio data with minimal setup and maximum convnenience.
 
+**[ADD A GIF]**
+[Demo](labelling_tool.png)
+
 What Is This?
 -------------
 
 We have been working with audio data for long time. It was only until custom labelling (of this audio data), we realised the dearth of tools available online. For us the core 
+
+
 
 Setup
 ---------------

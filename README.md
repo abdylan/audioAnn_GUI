@@ -34,7 +34,13 @@ Checklist based features implemented.
 
 Future Features
 ----------------
-To be Added (Use Checklists).
+- [x] Fix Skip Button
+- [ ] Continue from Previously stored labelled_df
+- [ ] Drop files already in labelled_df
+- [ ] Reset Widget Values Button
+- [ ] Audio Samples Side by Side
+- [ ] Optimized Layout for Labelling (How??)
+- [ ] ...
 
 
 Making Requests

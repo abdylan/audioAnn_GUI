@@ -38,16 +38,18 @@ Fixes & Bugs
 - [x] Continue from Previously stored labelled_df
 - [x] Drop files already in labelled_df
 - [x] Audio Sample & Predictions in text area widget
+- [ ] Refactor Code
+- [ ] Audio samples display side by side
 
 Future Features
 ----------------
 - [x] Add Test Set Tag to Layout
 - [x] Add Difficulty Tag to Layout
-- [ ] Refactor Code
-- [ ] (Button) On the run thresholding of predictions
+- [ ] Integrating Plotly RangeSlider (from EDA)
+- [ ] Undo Last Label Option (CTRL + Z)
+- [ ] On the run thresholding of predictions *(Slider with Live-Observe)*
 - [ ] Reset Widget Values Button
 - [ ] Weekly based Goal Tracker & associated Progress Bar
-- [ ] Audio samples display side by side
 - [ ] Optimized Layout for Labelling (How??)
 
 

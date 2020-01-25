@@ -3,3 +3,4 @@
 .DS_Store
 *.wav
 .ipynb_checkpoints/
+*.h5
